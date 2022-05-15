@@ -1,3 +1,9 @@
+## React Project Birthdays reaminder
+
+## Preview:  
+
+This project was deployed [see it](https://birthdays-reminder01.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
